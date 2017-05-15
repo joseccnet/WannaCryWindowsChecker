@@ -9,9 +9,9 @@ With these Windows binaries, you can easily check if your computers in you organ
 
 ### 1) You can download the binaries:
 
-A) [smb_ms17_010_local.exe](dist_x64/smb_ms17_010_local.exe) - x64 (64 bit) binary executable
+A) [smb_ms17_010_local.exe](https://github.com/joseccnet/WannaCryWindowsChecker/raw/master/dist_x64/smb_ms17_010_local.exe) - x64 (64 bit) binary executable
 
-B) [smb_ms17_010_local.exe](dist_x86/smb_ms17_010_local.exe) - x86 (32 bit) binary executable
+B) [smb_ms17_010_local.exe](https://github.com/joseccnet/WannaCryWindowsChecker/raw/master/dist_x86/smb_ms17_010_local.exe) - x86 (32 bit) binary executable
 
 Execute the bynary, and open the file called 'smb_ms17_010_local.exe.log', this file have the report.
 
